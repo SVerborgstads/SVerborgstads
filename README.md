@@ -7,7 +7,7 @@ I'm a 17-year-old developer currently trying to convince my computer that I actu
 ---
 
 ### 🛠️ The Tech I Use (To Break Things)
-- **Languages:** HTML and CSS (my toxic trait), C# (the one I actually like), C++ (we don't talk about C++)
+- **Languages:** HTML and CSS (my toxic trait), C# (the one I actually like), Bootstrap (we don't talk about Bootstrap)
 - **Frameworks:** React, Node.js, and whatever library I found 5 minutes ago.
 - **Special Skills:** Writing `console.log('here')` 400 times per hour.
 
